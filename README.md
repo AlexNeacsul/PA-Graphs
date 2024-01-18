@@ -1,4 +1,3 @@
-# PA-Graphs
 323CA
 Neacșu Alexandru-Catalin
 
